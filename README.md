@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya gupta</h1>
+<h1 align="center">Hello viewers👋, I'm Ananya gupta!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyagupta16&label=Profile%20views&color=0e75b6&style=flat" alt="ananyagupta16" /> </p>
 
 - 🌱 I’m currently learning **Power BI ,**
