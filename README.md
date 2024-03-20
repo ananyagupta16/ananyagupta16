@@ -1,4 +1,4 @@
-<h1 align="center">Hello viewers👋, I'm Ananya Gupta!</h1>
+<h1 align="center">Hello👋 viewers, I'm Ananya Gupta!</h1>
 <h3>Welcome to my GitHub profile!</h3>
 <h4> I am a Passionate Data Analyst 📊| Python Enthusiast 🐍| HTML & CSS Engenious🎨 | SQL Ninja 🎇</h4>
 
