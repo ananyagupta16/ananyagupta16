@@ -10,6 +10,8 @@
 ◾ Excel ⚡ <br>
 ◾ Tableau 📈<br>
 ◾ Data visualization 📊 <br>
+◾ Power BI 📊 <br>
+◾ DAX 📊 <br>
 ◾ HTML & CSS 🎨<br>
 </p> 
 
