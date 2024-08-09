@@ -13,6 +13,7 @@
 ◾ Power BI 📊 <br>
 ◾ DAX 📊 <br>
 ◾ HTML & CSS 🎨<br>
+◾ JavaScript 💥 
 </p> 
 
 ### 📫Let's Connect!
